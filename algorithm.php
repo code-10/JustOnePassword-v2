@@ -1,5 +1,5 @@
 <?php
-	include_once 'chocolate.php';
+	include_once 'chocolates.php';
 
   	function generate_salt()
   	{
